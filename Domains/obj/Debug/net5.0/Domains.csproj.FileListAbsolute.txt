@@ -1,0 +1,12 @@
+C:\Users\Blu-Ray\source\repos\WebAppApi\Domains\bin\Debug\net5.0\Domains.deps.json
+C:\Users\Blu-Ray\source\repos\WebAppApi\Domains\bin\Debug\net5.0\Domains.dll
+C:\Users\Blu-Ray\source\repos\WebAppApi\Domains\bin\Debug\net5.0\ref\Domains.dll
+C:\Users\Blu-Ray\source\repos\WebAppApi\Domains\bin\Debug\net5.0\Domains.pdb
+C:\Users\Blu-Ray\source\repos\WebAppApi\Domains\obj\Debug\net5.0\Domains.csproj.AssemblyReference.cache
+C:\Users\Blu-Ray\source\repos\WebAppApi\Domains\obj\Debug\net5.0\Domains.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blu-Ray\source\repos\WebAppApi\Domains\obj\Debug\net5.0\Domains.AssemblyInfoInputs.cache
+C:\Users\Blu-Ray\source\repos\WebAppApi\Domains\obj\Debug\net5.0\Domains.AssemblyInfo.cs
+C:\Users\Blu-Ray\source\repos\WebAppApi\Domains\obj\Debug\net5.0\Domains.csproj.CoreCompileInputs.cache
+C:\Users\Blu-Ray\source\repos\WebAppApi\Domains\obj\Debug\net5.0\Domains.dll
+C:\Users\Blu-Ray\source\repos\WebAppApi\Domains\obj\Debug\net5.0\ref\Domains.dll
+C:\Users\Blu-Ray\source\repos\WebAppApi\Domains\obj\Debug\net5.0\Domains.pdb
